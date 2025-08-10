@@ -43,7 +43,7 @@
         "fb-downloader-scrapper": "^1.0.1", 
         "file-type": "^17.1.1",
         "fluent-ffmpeg": "^2.1.2",
-        "fs": "^0.0.1-security",
+        "fs": "^0.0.2",
         "formdata-node": "^4.3.2",
         "hispamemes": "^1.0.7",
         "human-readable": "^0.2.1",
